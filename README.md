@@ -4,7 +4,7 @@ go-metrics
 This library provides a `metrics` package which can be used to instrument code,
 expose application metrics, and profile runtime performance in a flexible manner.
 
-Current API: [![GoDoc](https://godoc.org/github.com/hashicorp/go-metrics?status.svg)](https://godoc.org/github.com/hashicorp/go-metrics)
+Current API: [![GoDoc](https://godoc.org/github.com/tarunKoyalwar/go-metrics?status.svg)](https://godoc.org/github.com/tarunKoyalwar/go-metrics)
 
 Sinks
 -----

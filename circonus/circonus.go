@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	cgm "github.com/circonus-labs/circonus-gometrics"
-	"github.com/hashicorp/go-metrics"
+	"github.com/tarunKoyalwar/go-metrics"
 )
 
 // CirconusSink provides an interface to forward metrics to Circonus with

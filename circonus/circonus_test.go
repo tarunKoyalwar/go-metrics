@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hashicorp/go-metrics"
+	"github.com/tarunKoyalwar/go-metrics"
 )
 
 func TestNewCirconusSink(t *testing.T) {
